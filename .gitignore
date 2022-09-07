@@ -1,32 +1,10 @@
-# Prerequisites
-*.d
+# ====================================================== MISC IGNORE
+# build and docs folder
+build
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# log files
+*.log
+log.*
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# Mac OS X - Desktop Services Store
+.DS_Store
